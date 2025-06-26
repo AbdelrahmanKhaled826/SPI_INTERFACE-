@@ -126,6 +126,9 @@ The comparison between the expected output and the actual output shows perfect a
 | 3        | Read Address     | 10_00010000          | Set read address to 0x10                   | Done = 1            | Done asserted       | ✅ Passed  |
 | 4        | Read Data        | 11_00000000          | Read data from address 0x10                | 0xAA                | 0xAA                | ✅ Passed  |
 
+ 
+## 📘Elaborated Design
+![image](https://github.com/user-attachments/assets/cf694e6e-619e-451f-8285-d7eb535171a3)
 
 
 ## 🏁 How to Run
